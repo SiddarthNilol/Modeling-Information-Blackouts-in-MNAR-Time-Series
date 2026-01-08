@@ -1,7 +1,7 @@
 # Modeling Information Blackouts in MNAR Time Series (Traffic Sensors)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.01480-b31b1b.svg)](https://arxiv.org/abs/2601.01480)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18146529.svg)](https://doi.org/10.5281/zenodo.18146529)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18184110.svg)](https://doi.org/10.5281/zenodo.18184110)
 [![engrXiv](https://img.shields.io/badge/engrXiv-10.31224%2F6180-2b6cb0.svg)](https://doi.org/10.31224/6180)
 
 This repository studies **traffic-sensor blackouts** (contiguous missing intervals) and compares **MAR vs MNAR** state-space models for:
@@ -14,6 +14,10 @@ This repository studies **traffic-sensor blackouts** (contiguous missing interva
 > **TL;DR**: an LDS explains the traffic dynamics; a logistic model explains *whether* each sensor is missing given the latent state.
 
 ---
+
+## Citation
+Software (Zenodo): https://doi.org/10.5281/zenodo.18184110  
+Preprint (arXiv): https://arxiv.org/abs/2601.01480
 
 ## Paper & records
 - **arXiv (canonical):** https://arxiv.org/abs/2601.01480  (DOI: https://doi.org/10.48550/arXiv.2601.01480)
